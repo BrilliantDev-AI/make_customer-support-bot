@@ -195,6 +195,7 @@
                         ],
                         "type": "collection",
                         "label": "Email size"
+                        
                     },
                     {
                         "name": "hasAttachment",
