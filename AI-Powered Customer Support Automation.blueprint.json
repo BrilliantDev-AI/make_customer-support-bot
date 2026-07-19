@@ -478,6 +478,7 @@
                 "parseResponse": true,
                 "stopOnHttpError": true,
                 "allowRedirects": true,
+                
                 "shareCookies": false,
                 "requestCompressedContent": true,
                 "inputMethod": "dataStructure",
